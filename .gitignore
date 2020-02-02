@@ -1,0 +1,6 @@
+es archivo contiene los ejemplos de lo que va en un gitingnore
+*contraseñas
+*archivos muy pesado para ser suvidos como los node.js modulos que son,
+paquetes JavaScript que pueden cargarse y que proporcionan una funcionalidad específica para su aplicación
+*puertos 
+*informacion sensible 
