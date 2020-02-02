@@ -1,6 +1,6 @@
 # APIs Clasificación y diferencias  
 
-Las interfaces de programación de aplicaciones (API por sus siglas en inglés) son interfaces que exponen servicios o datos proporcionados por una serie una aplicaciones de software a través de un conjunto de recursos predefinidos, como métodos, objetos o URI. Las API permiten la comunicación de manera más rápida y flexible de sus productos y servicios con otros, sin necesidad de saber cómo están implementados(1)(2). (file:///C:/Users/hp/Documents/Downloads/Meng_et_al_2018.pdf). 
+Las interfaces de programación de aplicaciones (API por sus siglas en inglés) son interfaces que exponen servicios o datos proporcionados por una serie una aplicaciones de software a través de un conjunto de recursos predefinidos, como métodos, objetos o URI. Las API permiten la comunicación de manera más rápida y flexible de sus productos y servicios con otros, sin necesidad de saber cómo están implementados(1)(2). 
 
 hay diferentes clasificaciones de APIs que se discutirán  continuación 
 ## clasificación según accesibilidad
@@ -51,9 +51,11 @@ las operaciones CRUD (Create, Read, Update, Delete): son  operaciones  usadas pa
 |Eliminar un registro /cambiar su estado|DELETE|DELETE|DELETE|
 
 ## referncias
- 1.[readhat](https://www.redhat.com/es/topics/api/what-are-application-programming-interfaces)
- 2.[Meng, 2018](Meng, M. (2018). Application Programming Interface Documentation: What Do Software 
+1. [readhat](https://www.redhat.com/es/topics/api/what-are-application-programming-interfaces)
+
+2. [Meng, 2018](Meng, M. (2018). Application Programming Interface Documentation: What Do Software 
     Developers Want? journal of Technical Writing and Communication, 295–330.) 
- 3. [PI de servicios web orientados a accesibilidad. (2015-2016).](API de servicios web orientados a 
-     accesibilidad. (2015-2016). Sheila Plaza Estévez, Nerea Ramírez 
-     Lamela, Carmen Acosta Morales)
+
+3. [PI de servicios web orientados a accesibilidad. (2015-2016).](API de servicios web orientados a 
+    accesibilidad. (2015-2016). Sheila Plaza Estévez, Nerea Ramírez 
+    Lamela, Carmen Acosta Morales)
