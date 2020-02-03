@@ -4,3 +4,9 @@ es archivo contiene los ejemplos de lo que va en un gitingnore
 paquetes JavaScript que pueden cargarse y que proporcionan una funcionalidad específica para su aplicación
 *puertos 
 *informacion sensible 
+
+*EJEMPLOS
+*.properties
+*.class
+
+APIRest/node_modules/
